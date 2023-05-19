@@ -1,0 +1,16 @@
+*{
+    font-family:  Helvetica,Arial, sans-serif;
+}
+.mainBackground{
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+    height: 100v;
+}
+
+.background{
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+    border: 1px solid #E7F1E9;
+    border-radius: 4px;
+    width: 662px;
+    margin: auto;
+    padding: 82px 0px;
+}
